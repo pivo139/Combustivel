@@ -1,7 +1,7 @@
 markdown
 # Calculadora Álcool ou Gasolina ⛽
 
-Uma aplicação simples de linha de comando (CLI) desenvolvida em **Python** para ajudar motoristas a decidirem qual combustível é mais vantajoso financeiramente na hora de abastecer.
+Desenvolvi uma aplicação simples de linha de comando (CLI) desenvolvida em **Python** para ajudar motoristas a decidirem qual combustível é mais vantajoso financeiramente na hora de abastecer.
 
 ## 📋 Como funciona
 
@@ -13,7 +13,7 @@ O programa divide o valor do litro do álcool pelo valor do litro da gasolina (`
 
 ## 🚀 Funcionalidades
 
-* Entrada de valores decimais para o preço do álcool e da gasolina.
+* Entrada de valores decimais (float) para o preço do álcool e da gasolina.
 * Cálculo automático da proporção entre os preços.
 * Loop interativo que permite realizar múltiplos cálculos sem precisar reiniciar o programa.
 
